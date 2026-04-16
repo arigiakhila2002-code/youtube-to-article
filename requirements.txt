@@ -1,0 +1,5 @@
+yt-dlp
+openai-whisper
+reportlab
+python-dotenv
+openai
